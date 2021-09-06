@@ -9,3 +9,5 @@ No decorrer do exercício, foram utilizados:
 * CSS flexbox;
 * CSS grid;
 * Responsividade.
+
+### Você pode acessar a página [AQUI](https://anadasilva87.github.io/CloneStarbucks/) 
